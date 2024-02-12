@@ -1,0 +1,4 @@
+python yolo_opencv.py --image C:\Users\Admin\Desktop\object-detection-opencv-master\vase1.jpg --config C:\Users\Admin\Desktop\object-detection-opencv-master\yolov3.cfg --weights C:\Users\Admin\Desktop\object-detection-opencv-master\yolov3.weights --classes C:\Users\Admin\Desktop\object-detection-opencv-master\yolov3.txt
+
+python yolo_opencv_stream1.py --config C:\Users\Admin\Desktop\object-detection-opencv-master\yolov3.cfg --weights C:\Users\Admin\Desktop\object-detection-opencv-master\yolov3.weights --classes C:\Users\Admin\Desktop\object-detection-opencv-master\yolov3.txt
+
